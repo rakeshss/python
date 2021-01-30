@@ -24,4 +24,9 @@ print(nums[:-1])          # Slice indices can be negative; prints "[0, 1, 2, 3]"
 nums[2:4] = [8, 9]        # Assign a new sublist to a slice
 print(nums)               # Prints "[0, 1, 8, 9, 4]"
 
+# simple loops
 
+players = ['Virat','Rohit','Rishabh Pant']
+
+for player in players:
+    print(player)
