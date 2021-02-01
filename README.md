@@ -5,6 +5,7 @@ Getting started with python
  <ul>
 <li>Collections</li> 
 <li>Numpy</li>
+<li>Pandas</li>
 </ul> 
 
 
