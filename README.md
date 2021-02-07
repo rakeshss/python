@@ -6,6 +6,8 @@ Getting started with python
 <li>Collections</li> 
 <li>Numpy</li>
 <li>Pandas</li>
+<li> Support Vector machines </li>
+<li> ensembles </li>
 </ul> 
 
 
