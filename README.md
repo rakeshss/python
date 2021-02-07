@@ -7,6 +7,7 @@ Getting started with python
 <li> Numpy</li>
 <li> Pandas</li>
 <li> Support Vector machines </li>
+<li> Supervised learning</li>
 <li> ensembles </li>
 </ul> 
 
