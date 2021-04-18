@@ -1,7 +1,7 @@
 Cross-Entropy (CE):
 <br>
 
-CE brings the concept of Probability and error Function. Through CE you can define or predict whether model is good or bad.
+CE links the concept of Probability and error Function. Through CE you can define or predict whether model is good or bad.
 
 So on high level, idea is we should pick the model with less CE. 
 
