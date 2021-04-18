@@ -9,6 +9,7 @@ Getting started with python
 <li> Support Vector machines </li>
 <li> Supervised learning</li>
 <li> ensembles </li>
+ <li> cross entrophy </li>
 </ul> 
 
 
